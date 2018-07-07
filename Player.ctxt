@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Player
+comment0.text=\r\n\ Manages\ attributes\ of\ players\ and\ calculates\ new\ troops\r\n
+comment1.params=pName\ pColor
+comment1.target=Player(java.lang.String,\ java.awt.Color)
+comment2.params=countries
+comment2.target=void\ setNewTroops(Country[])
+comment2.text=\r\n\ Calculates\ how\ many\ troops\ the\ player\ gets\r\n\ \r\n\ Arguments\:\r\n\ Country[]\ countries\ --\ an\ array\ of\ all\ country\ objects\r\n
+comment3.params=countries\ country
+comment3.target=void\ placeTroops(Country[],\ Country)
+comment4.params=
+comment4.target=java.lang.String\ getName()
+comment5.params=
+comment5.target=int\ getNewTroops()
+comment6.params=
+comment6.target=java.awt.Color\ getColor()
+numComments=7

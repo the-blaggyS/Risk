@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Init
+comment0.text=\r\n\ Initializes\ the\ game,\ creates\ players,\ countries\ and\ dice\r\n\r\n\ @author\ Lucas\r\n\ @version\ 01.06.2018\r\n
+comment1.params=
+comment1.target=Init()
+comment2.params=
+comment2.target=java.lang.String[]\ getPlayerNames()
+comment3.params=playerNames
+comment3.target=Player[]\ createPlayers(java.lang.String[])
+comment4.params=players
+comment4.target=Country[]\ createCountries(Player[])
+comment5.params=
+comment5.target=Dice\ createDice()
+numComments=6
