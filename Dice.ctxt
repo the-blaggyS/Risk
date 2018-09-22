@@ -1,9 +1,0 @@
-#BlueJ class context
-comment0.target=Dice
-comment0.text=\r\n\ Generates\ random\ number\ between\ 1\ and\ 6\ included.\r\n
-comment1.params=
-comment1.target=Dice()
-comment2.params=amountOfDices
-comment2.target=int[]\ roll(int)
-comment2.text=\r\n\ Generates\ a\ random\ number\r\n\ \r\n\ Arguments\:\r\n\ int\ amountOfDices\ --\ number\ of\ random\ numbers\ to\ generate\r\n\ \r\n\ Return\:\r\n\ int[]\ rolledNumbers\ --\ random\ numbers\r\n
-numComments=3

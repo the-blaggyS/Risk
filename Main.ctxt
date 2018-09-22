@@ -1,8 +1,0 @@
-#BlueJ class context
-comment0.target=Main
-comment0.text=\r\n\ It\ creates\ only\ a\ new\ Thread\ and\ executes\ Application\r\n
-comment1.params=
-comment1.target=Main()
-comment2.params=
-comment2.target=void\ run()
-numComments=3
